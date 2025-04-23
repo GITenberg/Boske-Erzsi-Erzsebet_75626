@@ -1,0 +1,63 @@
+_repo: Boske-Erzsi-Erzsebet_75626
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Herczeg, Ferenc
+    aliases:
+    - Herczeg, Francesco
+    - Herczeg, Franz
+    - Herzog, Franz
+    - Herczegh, Ferencz
+    - Herczeg, Franciszek
+    birthdate: 1863
+    deathdate: 1954
+    gutenberg_agent_id: '57788'
+    url: http://www.gutenberg.org/2009/agents/57788
+    wikipedia: https://hu.wikipedia.org/wiki/Herczeg_Ferenc_(%C3%ADr%C3%B3)
+description: 'Reading ease score: 66.8 (8th & 9th grade). Neither easy nor difficult
+  to read.'
+gutenberg_bookshelf:
+- 'Browsing: Literature'
+- 'Browsing: Fiction'
+gutenberg_issued: '2025-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75626'
+  lccn: ca11002938
+language: hu
+pgterms:marc905: 20250310115819herczeg
+pgterms:marc906: '1905'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Google
+  Books Library Project
+publication_note: '  $aBudapest :$bSinger és Wolfner, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Hungarian'
+- !lcsh 'Hungarian fiction'
+- !lcc 'PH'
+- GITenberg
+summary: '"Böske, Erzsi, Erzsébet" by Ferenc Herczeg is a novel written in the early
+  20th century. The storyline focuses on the relationships and emotional turmoil within
+  a family, primarily exploring the characters of Jankó, Böskét, and Erzsi as they
+  navigate childhood, grief, and complex bonds among themselves and the adults around
+  them. It highlights themes of love, loss, and the innocence of youth, framed within
+  a poignant, domestic setting.  At the start of the narrative, we are introduced
+  to Jankó, a boy consumed by his affection for his mother and a neighbor girl, Bözsi.
+  The family is shrouded in a somber atmosphere following the death of a beloved aunt,
+  with Jankó''s mother preoccupied with her grief. The arrival of Bözsi brings a brief
+  spark of life into their world, as her playful nature contrasts sharply with the
+  melancholy that dominates Jankó''s household. As Jankó yearns for connection with
+  his mother, the chapters hint at the complexities of childhood friendships and rivalries,
+  revealing layers of emotional depth that set the tone for later developments in
+  their relationships. (This is an automatically generated summary.)'
+tableOfContents: Böske, Erzsi, Erzsébet -- Jankó jó útra tér -- A svadron apja --
+  Ulászló király paizsa -- A bátor ember -- Kleopátra királynő lovagja -- Lóri nénit
+  férjhez adjuk -- Miss Daisy -- A kék folt -- Jónás kalandja -- Bandi megbukott --
+  A sárga boa vagy az isteni Lia -- Bekvártélyozás -- Huszty báró uti kalandja --
+  Kinek szerencséje van -- Gyurinak igaza volt -- Mai gyerekek -- Karácsonyi levelek
+  -- Virággal üsd a nőt.
+title: Böske, Erzsi, Erzsébet
+url: http://www.gutenberg.org/ebooks/75626
