@@ -1,5 +1,8 @@
 _repo: Boske-Erzsi-Erzsebet_75626
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75626-h/images/cover.jpg
 creator:
   author:
     agent_name: Herczeg, Ferenc
@@ -16,6 +19,8 @@ creator:
     wikipedia: https://hu.wikipedia.org/wiki/Herczeg_Ferenc_(%C3%ADr%C3%B3)
 description: 'Reading ease score: 66.8 (8th & 9th grade). Neither easy nor difficult
   to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75626#Boske-Erzsi-Erzsebet
 gutenberg_bookshelf:
 - 'Browsing: Literature'
 - 'Browsing: Fiction'
